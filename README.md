@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Clear Clutter is a Python automation script that helps organize files inside a folder by:
+Clear Clutter is a Python automation script that organizes files in a folder by:
 
 * Filtering files by extension (e.g., `.jpg`)
 * Renaming files sequentially (`1.jpg`, `2.jpg`, `3.jpg`, ...)
@@ -34,7 +34,6 @@ This project demonstrates practical file system automation using Python.
 ## 📂 Project Structure
 
 ```
-mini_projects/
   clear_clutter/
     test_file/        # Source folder (input files)
     jpg_files/        # Destination folder (renamed output files)
@@ -142,8 +141,7 @@ Through this project, I learned:
 
 ## 📜 License
 
-This project is for learning and educational purposes.
-
+This project is intended for educational and learning purposes.
 ---
 
 ## ✨ Author
